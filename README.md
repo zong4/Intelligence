@@ -1,12 +1,13 @@
 # Intelligence
 
-What is intelligence?
-[Click here and watch a media.](https://youtu.be/ck4RGeoHFko)
+Try to think what is intelligence?
 
-## System intelligence
+[You can click here and watch a media.](https://youtu.be/ck4RGeoHFko)
 
-## Biological intelligence
+# System intelligence
 
-## Swarm intelligence
+# Biological intelligence
 
-## Artificial intelligence
+# Swarm intelligence
+
+# Artificial intelligence
