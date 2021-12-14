@@ -9,6 +9,7 @@
 ## Biological intelligence
 
 [a thousand brains by Jeff Hawkins.](https://3lib.net/s/a%20thousand%20brains)
+
 This book can help you understand BI.
 
 ### HTM
