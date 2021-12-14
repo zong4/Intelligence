@@ -2,13 +2,15 @@
 
 ## Q1: What is intelligence?
 
-[You can click here and watch a media.](https://youtu.be/ck4RGeoHFko)
+[A media.](https://youtu.be/ck4RGeoHFko)
+
+It will give you a answer.
 
 ## System intelligence
 
 ## Biological intelligence
 
-[a thousand brains by Jeff Hawkins.](https://3lib.net/s/a%20thousand%20brains)
+[A Thousand Brains by Jeff Hawkins.](https://3lib.net/s/a%20thousand%20brains)
 
 This book can help you understand BI.
 
