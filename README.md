@@ -16,6 +16,8 @@ This book can help you understand BI.
 
 [Here is the official website.](https://numenta.com/)
 
+[Here is the nupic.torch.](https://app.circleci.com/pipelines/github/numenta/nupic.torch)
+
 ## Swarm intelligence
 
 ## Artificial intelligence
