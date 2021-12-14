@@ -1,6 +1,6 @@
 # Intelligence
 
-## What is intelligence?
+## Q1: What is intelligence?
 
 [You can click here and watch a media.](https://youtu.be/ck4RGeoHFko)
 
